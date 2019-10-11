@@ -1,0 +1,10 @@
+{
+  "name": "@project-sunbird/common-consumption/layout",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0",
+    "common-consumption-styles": "0.0.1",
+    "@project-sunbird/common-consumption/cards": "0.0.1"
+  }
+}
